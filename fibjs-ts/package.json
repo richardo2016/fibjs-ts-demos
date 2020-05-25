@@ -1,0 +1,16 @@
+{
+  "name": "fibjs-ts",
+  "version": "1.0.0",
+  "description": "demo to show how to write fibjs with ts",
+  "repository": "",
+  "keywords": "",
+  "scripts": {
+    "start": "./node_modules/.bin/ftsc src/*"
+  },
+  "author": "Richard <richardo2016@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fib-typify": "^0.8.3",
+    "@fibjs/types": "^0.29.0"
+  }
+}
